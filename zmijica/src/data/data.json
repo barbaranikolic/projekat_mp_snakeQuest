@@ -1,0 +1,66 @@
+{
+"Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Idea",
+      "text": "The idea suddenly struck me like a bolt of lightning."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Advertisement",
+      "text": "I posted an ad seeking assistance."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Team",
+      "text": "People responded. We gathered a team."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Magic",
+      "text": "People responded. We gathered a team."
+    }
+  ],
+  "Gallery": [
+    {
+      "title": "KIDS",
+      "largeImage": "images/nostalgia/nostalgija1.jpg",
+      "smallImage": "images/nostalgia/nostalgija1.jpg"
+    },
+    {
+      "title": "Games",
+      "largeImage": "images/nostalgia/nostalgija2.webp",
+      "smallImage": "images/nostalgia/nostalgija2.webp"
+    },
+    {
+      "title": "Console",
+      "largeImage": "images/nostalgia/nostalgija3.jpg",
+      "smallImage": "images/nostalgia/nostalgija3.jpg"
+    },
+    {
+      "title": "2000s",
+      "largeImage": "images/nostalgia/nostalgija4.jpg",
+      "smallImage": "images/nostalgia/nostalgija4.jpg"
+    },
+    {
+      "title": "Nostalgia",
+      "largeImage": "images/nostalgia/nostalgija5.png",
+      "smallImage": "images/nostalgia/nostalgija5.png"
+    },
+    {
+      "title": "Snake",
+      "largeImage": "images/nostalgia/nostalgija6.jpg",
+      "smallImage": "images/nostalgia/nostalgija6.jpg"
+    },
+    {
+      "title": "Project",
+      "largeImage": "images/nostalgia/nostalgija7.jpg",
+      "smallImage": "images/nostalgia/nostalgija7.jpg"
+    },
+    {
+      "title": "Difference",
+      "largeImage": "images/nostalgia/nostalgija8.jpg",
+      "smallImage": "images/nostalgia/nostalgija8.jpg"
+    }
+  ]
+}
